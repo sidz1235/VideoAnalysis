@@ -1,0 +1,9 @@
+opencv-python
+SpeechRecognition
+numpy
+librosa
+openai
+pydub
+moviepy
+streamlit
+python-dotenv
